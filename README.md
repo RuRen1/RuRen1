@@ -18,6 +18,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RuRen1&show_icons=true&theme=default)
 
 ## 📫 Контакты
+- Gmail sir.rruren@gmail.com
 - GitHub: [github.com/RuRen1](https://github.com/RuRen1)
 - Telegram: @grigorii_tygosera
 <!--
