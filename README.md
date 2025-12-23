@@ -8,11 +8,11 @@
 
 ## Языки и инструменты
 ### Языки:
-**Python** 
-**C**
+Python
+C
 ### Инструменты: 
-**Git** 
-**Linux**
+Git 
+Linux
 
 ## 📈 GitHub статистика
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RuRen1&show_icons=true&theme=default)
