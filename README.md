@@ -19,7 +19,7 @@
 
 ## 📫 Контакты
 - GitHub: [github.com/RuRen1](https://github.com/RuRen1)
-- Telegram: [grigorii_tygosera](@grigorii_tygosera)
+- Telegram: @grigorii_tygosera
 <!--
 **RuRen1/RuRen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
